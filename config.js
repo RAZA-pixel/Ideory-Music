@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "25093e80f87966b2c661426aa31ed4d27cb4a1bab87eedb9398d1992d14a7698",
   language: "en",
-  ownerID: ["1087441200962871377", ""], 
+  ownerID: ["1520091947061088468", ""], 
   mongodbUri : "mongodb+srv://root:root@cluster0.iyles.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   spotifyClientId : "",
   spotifyClientSecret : "",
